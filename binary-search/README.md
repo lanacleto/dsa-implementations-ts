@@ -1,8 +1,3 @@
-**Example Filled for Binary Search (`/binary-search/README.md`)**
-
-Using the template above, here's how the specific `README.md` for the `binary-search` folder would look in English:
-
-```markdown
 # Binary Search
 
 ## 📝 Problem Description
