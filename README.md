@@ -1,17 +1,17 @@
-# TypeScript Algorithm Studies
+# DSA Implementations in TypeScript
 
-A collection of algorithm and data structure implementations using TypeScript, created for learning and practice purposes.
+A collection of **Data Structures and Algorithms (DSA)** implementations using TypeScript, created for learning and practice purposes. Data Structures and Algorithms are fundamental building blocks in computer science, crucial for efficient problem-solving and software development.
 
 ## 🌱 Motivation
 
-The main goal of this repository is to deepen my understanding of fundamental algorithms and data structures, improve my problem-solving skills, and maintain an organized record of my learning progress.
+The main goal of this repository is to deepen my understanding of fundamental concepts in DSA, improve my problem-solving skills, and maintain an organized record of my learning progress.
 
 ## 📂 Repository Structure
 
-This repository is organized by algorithm. Each algorithm resides in its own directory, named descriptively (e.g., `binary-search`). Inside each directory, you will typically find:
+This repository is organized by concept (algorithm or data structure). Each one resides in its own directory, named descriptively (e.g., `binary-search`, `linked-list`). Inside each directory, you will typically find:
 
-* `index.ts`: The TypeScript implementation of the specific algorithm.
-* `README.md`: A dedicated file explaining the algorithm, its time and space complexity (Big O notation), usage examples, or personal notes.
+* `index.ts`: The TypeScript implementation of the specific concept.
+* `README.md`: A dedicated file explaining the concept, its time and space complexity (Big O notation), usage examples, or personal notes.
 
 ## ✨ Technologies Used
 
@@ -20,12 +20,12 @@ This repository is organized by algorithm. Each algorithm resides in its own dir
 
 ## 🚀 How to Run the Code
 
-To run any of the algorithm implementations locally, you'll need [Node.js](https://nodejs.org/) installed on your machine (which includes npm).
+To run any of the implementations locally, you'll need [Node.js](https://nodejs.org/) installed on your machine (which includes npm).
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/lanacleto/](https://github.com/lanacleto/)[repository-name].git
-    cd [repository-name]
+    git clone [https://github.com/lanacleto/dsa-implementations-ts.git](https://github.com/lanacleto/dsa-implementations-ts.git)
+    cd dsa-implementations-ts
     ```
 
 2.  **Set up the Environment:**
@@ -43,10 +43,10 @@ To run any of the algorithm implementations locally, you'll need [Node.js](https
         ```
         *You can customize the `tsconfig.json` later if needed.*
 
-3.  **Execute an Algorithm:**
+3.  **Execute an Implementation:**
     Use `ts-node` (via `npx` to ensure you're using the locally installed version) to run the desired TypeScript file:
     ```bash
-    npx ts-node path/to/the/algorithm/index.ts
+    npx ts-node path/to/the/concept/index.ts
     ```
     For example, to run the Binary Search implementation:
     ```bash
@@ -54,12 +54,12 @@ To run any of the algorithm implementations locally, you'll need [Node.js](https
     ```
     *(Make sure the `index.ts` file actually produces some output, like using `console.log()`, for you to see results in the terminal.)*
 
-## 📚 Algorithms Implemented
+## 📚 Algorithms & Data Structures Implemented
 
-Here is a list of algorithms currently available in this repository:
+Here is a list of implementations currently available in this repository:
 
 * [Binary Search](./binary-search/)
-* *(More algorithms will be added here as I implement them...)*
+* *(More items will be added here as I implement them...)*
 
 ## 👨‍💻 Author
 
