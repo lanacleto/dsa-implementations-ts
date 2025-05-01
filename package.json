@@ -1,0 +1,17 @@
+{
+  "name": "dsa-implementations-ts",
+  "version": "1.0.0",
+  "description": "A collection of **Data Structures and Algorithms (DSA)** implementations using TypeScript, created for learning and practice purposes. Data Structures and Algorithms are fundamental building blocks in computer science, crucial for efficient problem-solving and software development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
