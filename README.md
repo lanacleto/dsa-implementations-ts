@@ -1,4 +1,4 @@
-# TypeScript Algorithm Studies (ou o nome que você escolher!)
+# TypeScript Algorithm Studies
 
 A collection of algorithm and data structure implementations using TypeScript, created for learning and practice purposes.
 
